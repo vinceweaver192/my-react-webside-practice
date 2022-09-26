@@ -12,6 +12,9 @@ function App() {
     <div className="App">
       <Header/>
       <Content/>
+      <p>
+        My name is {name}.
+      </p>
       <Footer/>
     </div>
   );
