@@ -9,11 +9,8 @@ const Content = () => {
 
     return (
         <main>
-            <header>
-                My List
-            </header>
             <p>
-                Hello {handleNameChange()}, eat my ass!
+                Hello {handleNameChange()}!
             </p>
         </main>
     )
